@@ -1,1 +1,1 @@
-this is another copy of test3.txt
+changed the line of text
